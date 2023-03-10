@@ -1,0 +1,25 @@
+body{
+    background-image: url(background.jpeg);
+    background-size: cover;
+    text-align: center;
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+.note{
+    font-size: 15px;
+    color: black;
+}
+#btn_sound{
+    border-radius: 5px;
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+
+}
+canvas{
+    border: 7px solid peachpuff;
+    border-radius: 15px;
+}
